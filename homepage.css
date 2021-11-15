@@ -1,0 +1,97 @@
+html{
+    background-color:black;
+    color:white;
+}
+#wrapper {
+    
+    position:relative;
+    width: 90%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+        }
+#header { background-color: #9e46c7e7;
+color:black;
+border-style: solid;
+        border-color: black;
+}
+
+
+     
+main {
+       margin-left: 100px;
+       padding: 10px;
+       background-color:  #9e46c748;
+       text-align: center;
+       color:white;
+        }
+
+#footer { text-align: center;
+          font-style: italic;
+          background-color: #ffffff;
+          color:white; }
+img{
+    margin-right: 70px;
+}
+h2{
+    color:orange;
+}
+#title{
+    padding-left: 10px;
+    color:white;
+    border-style: solid;
+    border-color: black;
+    
+}
+#left{
+    float:right;
+    left:auto;
+}
+#logo{
+    position: relative;
+    float:left;
+    margin-right:10px;
+    right: 0%;
+    
+}
+
+
+.cards{
+    position:static;
+    margin: 0 auto;
+    max-width: 1000px;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 90px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card{
+    background-color: blanchedalmond;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+.card_image{
+    width:100%;
+    display:block;
+}
+.card_content{
+    line-height: 1.5;
+    font-size:0.9em;
+    padding: 15px;
+    background-color: blanchedalmond;
+    color:black;
+    
+}
+.card_content > p:first-of-type{
+    margin-top:0;
+}
+.card_content > p:last-of-type{
+    margin-bottom:0;
+}
+.card_info{
+    padding:15px;
+    display: flex;
+    justify-content: space-between;
+    font-size:0.9em;
+    background-color: rgb(194, 191, 191);
+}
