@@ -1,0 +1,78 @@
+html{
+    background-color: black;
+    color:black;
+}
+#wrapper {
+    position:static;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #9e46c7;
+    color:white;
+        }
+#header { background-color: #9e46c7;
+color:black;
+border-style: white;
+        border-color: black;
+}
+
+nav { float: left;  
+     width: 200px;
+      padding: 50px;
+      border-style: solid;
+    background-color: #9e46c7;
+    color:yellow;
+    text-align: middle;
+          font-style: Arial Bold;
+          background-color: #9e46c7;
+          color:white; }
+     
+main {
+       margin-left: 10px;
+       padding: 100px;
+       background-color:  #9e46c7;
+       text-align:left;
+       color:white;
+        }
+img src="GBH Logo.jpg{
+    margin-left: 10px;
+}
+#footer { text-align: center;
+          font-style: Arial;
+          background-color: #ffffff;
+          color:white; }
+img src="NCAA14.jpg{
+    margin-center: 100px;
+}
+h2{
+    color:white;
+}
+#title{
+    padding-left: 10px;
+    color:White;
+    border-style: solid;
+        border-color: black;
+       
+}
+#logo{
+    position:static;
+    left:50%;
+    margin-right:10px;
+   
+   
+   
+}
+#title img{
+    position:absolute;
+    top:5%;
+    right:10%;
+    div 
+  border: 10px solid black;
+  padding: -20px 5px 5px;
+  background-color: #9e46c7;
+}
+</style>
+</head>
+<body>
+}
